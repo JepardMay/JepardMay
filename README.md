@@ -13,7 +13,7 @@
 ### :woman_technologist: About Me :
 I'm Veronika, a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-- 💻 Started learning frontend in 2018
+- 💻 Started learning frontend in 2017
 - 🔎 Completed one year education at [htmlacademy.ru](https://htmlacademy.ru/profession/frontender)
 - 🏢 Had an internship in [Liga A](https://ligaa.agency/)
 - ❤️ Love learning something new and build my own projects
