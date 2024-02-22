@@ -36,17 +36,17 @@ I'm Veronika, a Frontend Developer <img src="https://media.giphy.com/media/WUlpl
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" alt="Gulp " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
 
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com?user=JepardMay&theme=radical&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=JepardMay&theme=radical&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" title="GitHub Streak" alt="GitHub Streak"/>
 
-[![GitHub stats](https://github-readme-stats-jepardmays-projects.vercel.app/api?username=JepardMay&show_icons=true&theme=radical&hide=stars&include_all_commits=true)](https://github.com/JepardMay/github-readme-stats)
+<img src="https://github-readme-stats-navy-psi.vercel.app/api?username=JepardMay&show_icons=true&theme=radical&include_all_commits=true&count_private=true" title="GitHub Stats" alt="GitHub Stats"/>
 
-[![Top Langs](https://github-readme-stats-jepardmays-projects.vercel.app/api/top-langs/?username=JepardMay&theme=radical)](https://github.com/JepardMay/github-readme-stats)
+<img src="https://github-readme-stats-navy-psi.vercel.app/api/top-langs/?username=JepardMay&theme=radical&layout=compact" title="Top Langs" alt="Top Langs"/>
 <!--
 **JepardMay/JepardMay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
